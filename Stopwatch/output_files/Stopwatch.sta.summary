@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_50'
+Slack : -3.256
+TNS   : -28.525
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : -2.751
+TNS   : -15.589
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:U02|SEC_CP'
+Slack : -1.311
+TNS   : -9.866
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:U02|MS_CP'
+Slack : -1.065
+TNS   : -7.928
+
+Type  : Slow 1200mV 85C Model Setup 'start_stop'
+Slack : -0.165
+TNS   : -0.165
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_50'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:U02|SEC_CP'
+Slack : 0.424
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:U02|MS_CP'
+Slack : 0.549
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'start_stop'
+Slack : 0.665
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_50'
+Slack : -3.000
+TNS   : -29.884
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'start_stop'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : -1.222
+TNS   : -9.776
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:U02|MS_CP'
+Slack : -1.222
+TNS   : -9.776
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:U02|SEC_CP'
+Slack : -1.222
+TNS   : -9.776
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:U02|MIN_CP'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_50'
+Slack : -2.864
+TNS   : -23.938
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : -2.478
+TNS   : -14.196
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:U02|SEC_CP'
+Slack : -1.114
+TNS   : -8.423
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:U02|MS_CP'
+Slack : -0.901
+TNS   : -6.740
+
+Type  : Slow 1200mV 0C Model Setup 'start_stop'
+Slack : -0.067
+TNS   : -0.067
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_50'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:U02|SEC_CP'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:U02|MS_CP'
+Slack : 0.507
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'start_stop'
+Slack : 0.606
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_50'
+Slack : -3.000
+TNS   : -29.884
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'start_stop'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : -1.222
+TNS   : -9.776
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:U02|MS_CP'
+Slack : -1.222
+TNS   : -9.776
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:U02|SEC_CP'
+Slack : -1.222
+TNS   : -9.776
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:U02|MIN_CP'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : -1.336
+TNS   : -7.342
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_50'
+Slack : -1.105
+TNS   : -4.107
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:U02|SEC_CP'
+Slack : -0.307
+TNS   : -2.456
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:U02|MS_CP'
+Slack : -0.178
+TNS   : -1.424
+
+Type  : Fast 1200mV 0C Model Setup 'start_stop'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_50'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:U02|SEC_CP'
+Slack : 0.196
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:U02|MS_CP'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'start_stop'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_50'
+Slack : -3.000
+TNS   : -28.696
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'start_stop'
+Slack : -3.000
+TNS   : -4.343
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:U01|CLK_100Hz'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:U02|MS_CP'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:U02|SEC_CP'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:U02|MIN_CP'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
