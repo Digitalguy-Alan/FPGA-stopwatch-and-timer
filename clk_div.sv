@@ -2,10 +2,10 @@
 	input clk,
 	input reset,
 	output reg newClk);
-	parameter SPEED = 249999;
+	parameter SPEED = 24_9999;
     reg[20:0] cnt = 0;
-	always@(posedge clk or negedge reset) begin
-		if(~reset) begin
+	always@(posedge clk or posedge reset) begin
+		if(reset) begin
 			cnt <= 0;
 			newClk <= 0;
 		end
